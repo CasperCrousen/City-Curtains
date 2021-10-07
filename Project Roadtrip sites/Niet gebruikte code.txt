@@ -1,0 +1,10 @@
+<h2>Menu:</h2>
+	<ul>
+	<li><a style="color:white;" href='Los Angeles.html'> <button>Los Angeles</button></a></li>	<!--- A link to another page with the <a> --->
+	<li><a style="color:white;" href='Hotels.html'> <button>Hotels</button></a></li>
+	<li><a style="color:white;" href='San Francisco.html'> <button>San Francisco</button></a></li>
+	<li><a style="color:white;" href='San Diego.html'> <button>San Diego</button></a></li>
+	<li><a style="color:white;" href='Fresno.html'> <button>Fresno</button></a></li>
+	</ul>
+	<hr/>
+	<h2 style="color:white;"> About the roadtrip </h2>
