@@ -2,26 +2,61 @@
 <HTML>          								<!-- Required, begin tag van html, om de start van HTML aan te geven aan de browser -->
 	<head>      								<!-- Required, start headings -->
 		<title>Los Angeles</title> <!-- Required, title of the page -->
+		<link rel="stylesheet" href="mystyle.css">
 	</head>    								<!-- Required, end of headings -->
 	<body>  	<!-- Required, start webpage content -->
-	<style>
-	body	{background-image: url('./Afbeeldingen/Los Angeles.jpg');
-					background-repeat: no-repeat;
-					background-size: cover;
-					}
-	</style>
-	
-	<strong> <h1> Los Angeles </h1> </strong>
-				<hr/>
-				Menu:<br/>
-				<ul>
-					<li><a href='Landpagina.html'><button>Home</button></a></li>	<!--- A link to another page with the <a> --->
-					<li><a href='Hotels.html'> <button>Hotels</button></a></li>
-					<li><a href='San Francisco.html'> <button>San Francisco</button></a></li>
-					<li><a href='San Diego.html'> <button>San Diego</button></a></li>
-					<li><a href='Fresno.html'> <button>Fresno</button></a></li>
-				</ul>
-				<hr/>
+		<style>
+			ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  background-color: #333;
+			}
+			
+			li {
+			  float: left;
+			}
+			
+			li a {
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			}
+			
+			li a:hover {
+			  background-color: #111;
+			}
+			</style>
+			</head>
+			<body>
+			
+			<ul>
+			  <li><a class="active" href="C:\Users\crous\OneDrive\Vista College\Leerjaar 1\HTML\HTDOCS\City-Curtains\Project Roadtrip sites\Landpagina.html">Home</a></li>
+			  <li><a href="C:\Users\crous\OneDrive\Vista College\Leerjaar 1\HTML\HTDOCS\City-Curtains\Project Roadtrip sites\Hotels.html">Hotels</a></li>
+			  <li><a href="file:///C:/Users/crous/OneDrive/Vista%20College/Leerjaar%201/HTML/HTDOCS/City-Curtains/Project%20Roadtrip%20sites/San%20Francisco.html">San Francisco</a></li>
+			  <li><a href="C:\Users\crous\OneDrive\Vista College\Leerjaar 1\HTML\HTDOCS\City-Curtains\Project Roadtrip sites\Fresno.html">Fresno</a></li>
+			  <li><a href="C:\Users\crous\OneDrive\Vista College\Leerjaar 1\HTML\HTDOCS\City-Curtains\Project Roadtrip sites\San Diego.html">San Diego</a></li>
+			</ul>
+			</style>
+			
+			<style> 
+				body {
+				background-image: url("./Afbeeldingen/Los Angeles.jpg");
+				background-repeat: no-repeat;
+				background-position: right top;
+				background-attachment: fixed;
+				}
+			</style>
+
+<nav style="width:100%;">
+	<strong> 
+	<h1 style="color:white; font-size:400%; text-align:center;"> Los Angeles </h1> 
+	</strong>
+</nav>
+
 	
 	</body>  								<!-- Required, end of webpage content -->
 </HTML> 									<!-- Required, end of HTML code -->
