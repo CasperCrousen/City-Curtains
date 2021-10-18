@@ -1,0 +1,44 @@
+
+body {
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
+.fresno_back{
+    background-image: url("./Afbeeldingen/Fresno.jpg");
+}
+
+.Landpagina{
+    background-image: url("./Afbeeldingen/wp2670434.jpg");
+}
+
+.hotels{ 
+    background-image: url("./Afbeeldingen/Nieuw project (1).jpg");
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
