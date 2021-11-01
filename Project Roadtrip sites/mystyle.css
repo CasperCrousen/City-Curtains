@@ -74,3 +74,56 @@ li a:hover {
 .subtekst{
   padding-left: 120px;
 }
+
+
+.daglosangeles{
+  text-align: center;
+}
+
+.disney{
+  height: 360px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.hsi{
+  height: 450px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.market{
+  height: 300px;
+  width: 600px;
+  padding-left: 150px;
+  margin-right: 10px;
+}
+
+.routemarkt{
+  height: 300px;
+  width: 550px;
+}
+
+.joe{
+  height: 450px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.holly{
+  height: 360px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.rodeo{
+  height: 380px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.pier{
+  height: 400px;
+  width: 720px;
+  padding-left: 400px;
+}
