@@ -70,3 +70,7 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+.subtekst{
+  padding-left: 120px;
+}
