@@ -78,6 +78,7 @@ li a:hover {
 
 .daglosangeles{
   text-align: center;
+  color: white;
 }
 
 .disney{
@@ -124,6 +125,12 @@ li a:hover {
 
 .pier{
   height: 400px;
+  width: 720px;
+  padding-left: 400px;
+}
+
+.bridge{
+  height: 360px;
   width: 720px;
   padding-left: 400px;
 }
