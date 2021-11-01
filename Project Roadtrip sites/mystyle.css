@@ -134,3 +134,39 @@ li a:hover {
   width: 720px;
   padding-left: 400px;
 }
+
+.peaks{
+  height: 360px;
+  width: 640px;
+  padding-left: 440px; 
+}
+
+.museum{
+  height: 360px;
+  width: 600px;
+  padding-left: 470px;  
+}
+
+.zoo{
+  height: 360px;
+  width: 680px;
+  padding-left: 420px;
+}
+
+.lookout{
+  width: 600px;
+  height: 300px;
+  padding-left: 460px;
+}
+
+.routefrancisco{
+  width: 1080;
+  height: 720;
+  padding-left: 400px;
+}
+
+.routeangeles{
+  width: 580px;
+  height: 360px;
+  padding-left: 460px;
+}
